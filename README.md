@@ -9,6 +9,7 @@ A real-world football transfer valuation and deal-grading web application. Desig
 
 ---
 
+
 ## 📌 Table of Contents
 1. [Overview & Key Features](#-overview--key-features)
 2. [How the Valuation Algorithm Works](#-how-the-valuation-algorithm-works)
