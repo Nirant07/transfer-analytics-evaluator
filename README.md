@@ -7,6 +7,7 @@
 
 A real-world football transfer valuation and deal-grading web application. Designed with a broadcast-style sports presentation UI, this engine evaluates proposed or completed football transfers using only **four inputs**—**Player Name**, **Selling Club (From)**, **Buying Club (To)**, and **Transfer Deal Price (£M)**—and grades the deal from **A to F** by computing the player's true **Market Value** and **Best Possible Deal** floor.
 
+
 ---
 
 
